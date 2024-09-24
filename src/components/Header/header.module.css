@@ -1,0 +1,27 @@
+.container{
+   width: 100%;
+   background-color: rgba(60, 84, 95, 0.433);
+   display: flex;
+   height: 6vh;
+   position: fixed;
+   color: white;
+   z-index: 10000;
+   transition: all 0.4s ease-in-out;
+   color: white;
+}
+
+.active{
+    
+    background-color: rgba(60, 84, 95, 0.833);
+    font-weight: bold;
+    
+
+}
+.container li{
+    flex: 1;
+}
+
+.container a{
+    text-decoration: none;
+    color: inherit;
+}
