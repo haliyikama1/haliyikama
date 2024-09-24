@@ -139,9 +139,9 @@ export default function Home() {
           <div className={styles.h31} id="iletisim">
             <h3>Manisa Koltuk Yıkama İletişim Bilgileri</h3>
             <br />
-            <p><b>Hemen <span style={{color: "red"}}><a href="tel:+9055533216882">buraya tıklayarak</a></span> arama yapabilir ve Manisa koltuk yıkama randevunuzu oluşturabilirsiniz.</b></p>
+            <p><b>Hemen <span style={{color: "red"}}><a href="tel:+905533216882">buraya tıklayarak</a></span> arama yapabilir ve Manisa koltuk yıkama randevunuzu oluşturabilirsiniz.</b></p>
             <br />
-            <p><b>Ya da <span style={{color: "red"}}><a href="https://wa.me/+9055533216882">buraya tıklayarak</a></span> WhatsApp üzerinden iletişime geçebilirsiniz.</b></p>
+            <p><b>Ya da <span style={{color: "red"}}><a href="https://wa.me/+905533216882">buraya tıklayarak</a></span> WhatsApp üzerinden iletişime geçebilirsiniz.</b></p>
           </div>
         </section>
       </main>
