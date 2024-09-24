@@ -72,18 +72,44 @@ export default function Home() {
           <div className={styles.h21c}>
             <p>Manisa&apos;da sunduğumuz koltuk yıkama hizmetleri, en son teknoloji ve çevre dostu ürünlerle gerçekleştirilmektedir. Uzman ekibimiz, her türlü kumaş ve dokuya uygun özel temizleme teknikleri kullanarak, koltuklarınızın ömrünü uzatır ve sağlıklı bir yaşam alanı oluşturmanıza yardımcı olur.</p>
           </div>
+
+
+
+          <div className={styles.h21}>
+            <h2>Koltuk Yıkama Neden Önemli?</h2>
+          </div>
+          <div className={styles.h21i}>
+            <Image 
+              src="/3.jpg"
+              layout="fill"
+              objectFit="cover"
+              alt="Koltuk yıkama Manisa" 
+            />
+          </div>
+          <div className={styles.h21c}>
+            <p>Koltuk yıkama hizmeti, ev ve işyerlerinde kullanılan koltukların düzenli olarak temizlenmesini sağlar. Bu hizmet, sağlık, hijyen ve görünüm açısından oldukça önemlidir:</p>
+  <ul>
+    <li><strong>Sağlık</strong>: Koltuklarda zamanla birikebilen toz, deri, döküntüler ve diğer kirleticiler sağlık sorunlarına neden olabilir. Koltuk yıkama, bu tür birikintileri temizleyerek astım, alerjiler ve diğer solunum problemlerinin önlenmesine yardımcı olur.</li>
+    <li><strong>Hijyen</strong>: Düzenli koltuk yıkaması, bakterilerin, virüslerin ve diğer mikroorganizmaların koltuk üzerinde çoğalmasını önler. Bu, daha sağlıklı ve hijyenik bir ev ya da iş ortamı sağlar.</li>
+    <li><strong>Görünüm</strong>: Temiz ve bakımlı görünen koltuklar, mekanın genel görünümünü de güzelleştirir. Sık yıkanan koltuklar daha iyi bir estetik sunarak mekanın daha modern ve profesyonel bir görünüme kavuşmasına yardımcı olur.</li>
+  </ul>
+  
+          </div>
+
+
           <div className={styles.h31}>
-            <h3>Neden Bizi Tercih Etmelisiniz?</h3>
+            <h2>Neden Bizi Tercih Etmelisiniz?</h2>
           </div>
           <div className={styles.h31i}>
             <Image 
-              src="/koltuk-yikama-manisa.jpg"
+              src="/4.jpg"
               layout="fill"
               objectFit="cover"
               alt="Manisa koltuk yıkama uzman ekibi" 
             />
           </div>
           <div className={styles.h31c}>
+            <p><b>Koltuk yıkama hizmeti alırken bizleri tercih etmek için oldukça fazla sebebiniz var. Bu sebeplerden bazılarını sizler için maddeler halinde derledik:</b></p>
             <ul>
               <li>Deneyimli ve profesyonel ekip</li>
               <li>Hızlı ve etkili temizlik</li>
@@ -92,6 +118,24 @@ export default function Home() {
               <li>Müşteri memnuniyeti odaklı hizmet</li>
             </ul>
           </div>
+          
+          <div className={styles.h31}>
+            <h2>Manisa Koltuk Yıkama Fiyatlandırma</h2>
+          </div>
+          <div className={styles.h31i}>
+            <Image 
+              src="/5.jpg"
+              layout="fill"
+              objectFit="cover"
+              alt="Koltuk yıkama" 
+            />
+          </div>
+          <div className={styles.h31c}>
+        
+  <p>Koltuk yıkama hizmetinin fiyatı, koltukların adedi, boyutu ve kullanılan yöntemlere göre değişkenlik gösterir. Daha büyük koltuklar veya daha yoğun kirlenmişlerin temizlenmesi daha yüksek bir ücret gerektirebilir. Ayrıca koltukların koltuk takımı halinde veya tek tek yıkatılması da fiyatlandırmayı etkiler.</p>
+  <p>Biz, her bir müşterimizin ihtiyacına uygun, ekonomik ve kaliteli bir koltuk yıkama hizmeti sunmayı hedefliyoruz. Fiyatlarımız hakkında daha detaylı bilgi için lütfen bize ulaşın</p>
+          </div>
+          
           <div className={styles.h31} id="iletisim">
             <h3>Manisa Koltuk Yıkama İletişim Bilgileri</h3>
             <br />
