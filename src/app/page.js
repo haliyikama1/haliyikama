@@ -32,7 +32,7 @@ export default function Home() {
         <title>Manisa Koltuk Yıkama | Profesyonel Temizlik Hizmeti</title>
         <meta name="description" content="Manisa&apos;da profesyonel koltuk yıkama hizmeti. Uzman kadro ve kaliteli ekipmanlarla koltuklarınızı ilk günkü haline getiriyoruz." />
         <meta name="keywords" content="Manisa koltuk yıkama, hijyenik koltuk temizliği" />
-        <link rel="canonical" href="https://www.manisakoltukyikama.com/" />
+        <link rel="canonical" href="https://www.ekremkoltukyikama.com/" />
       </Head>
 
       <main>
