@@ -16,6 +16,10 @@ const geistMono = localFont({
 export const metadata = {
   title: "Manisa Koltuk Yıkama",
   description: "Manisa halı yıkama şirketi",
+  verification: {
+    google: 'google44bf3c364dc50570.html',
+    
+  }
 };
 
 export default function RootLayout({ children }) {
